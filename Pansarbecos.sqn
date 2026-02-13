@@ -1,0 +1,224 @@
+>Feature Construct_4500
+50	429	enhancer
+			label	CMV enhancer
+			note	human cytomegalovirus immediate early enhancer
+430	633	promoter
+			label	CMV promoter
+			note	human cytomegalovirus (CMV) immediate early promoter
+741	4159	CDS
+			product	WuhanS1-Pang17RBD-WIV1RBD
+2787	2804	misc_feature
+			note	Linker
+3474	3491	misc_feature
+			note	Linker
+4205	4793	misc_feature
+			label	WPRE
+			note	woodchuck hepatitis virus posttranscriptional regulatory element
+4859	4907	polyA_signal
+			label	HSV TK poly(A) signal
+			note	herpes simplex virus thymidine kinase polyadenylation signal (Cole and Stacy, 1985)
+5109	5537	rep_origin
+			label	f1 ori
+			note	f1 bacteriophage origin of replication; arrow indicates direction of (+) strand synthesis
+5551	5880	promoter
+			label	SV40 promoter
+			note	SV40 enhancer and early promoter
+5731	5866	rep_origin
+			label	SV40 ori
+			note	SV40 origin of replication
+5947	6741	CDS
+			label	NeoR/KanR
+			gene	aph(3')-II (or nptII)
+			note	confers resistance to neomycin, kanamycin, and G418 (Geneticin(R))
+			codon_start	1
+			product	aminoglycoside phosphotransferase from Tn5
+6917	7038	polyA_signal
+			label	SV40 poly(A) signal
+			note	SV40 polyadenylation signal
+7103	7087	primer_bind
+			label	M13 rev
+			note	common sequencing primer, one of multiple similar variants
+7165	7135	promoter
+			label	lac promoter
+			note	promoter for the E. coli lac operon
+8077	7489	rep_origin
+			label	ori
+			note	high-copy-number ColE1/pMB1/pBR322/pUC origin of replication
+9108	8248	CDS
+			label	AmpR
+			gene	bla
+			note	confers resistance to ampicillin, carbenicillin, and related antibiotics
+			codon_start	1
+			product	beta-lactamase
+9213	9109	promoter
+			label	AmpR promoter
+			gene	bla
+>Feature Construct_4501
+50	429	enhancer
+			label	CMV enhancer
+			note	human cytomegalovirus immediate early enhancer
+430	633	promoter
+			label	CMV promoter
+			note	human cytomegalovirus (CMV) immediate early promoter
+741	4835	CDS
+			product	Multivalent antigen WHS1_Khosta2RBD_RsSHC014RBD_WIV1RBD
+2787	2804	misc_structure
+			note	linker
+3465	3482	misc_structure
+			note	linker
+4880	5468	misc_feature
+			label	WPRE
+			note	woodchuck hepatitis virus posttranscriptional regulatory element
+5534	5582	polyA_signal
+			label	HSV TK poly(A) signal
+			note	herpes simplex virus thymidine kinase polyadenylation signal (Cole and Stacy, 1985)
+5784	6212	rep_origin
+			label	f1 ori
+			note	f1 bacteriophage origin of replication; arrow indicates direction of (+) strand synthesis
+6226	6555	promoter
+			label	SV40 promoter
+			note	SV40 enhancer and early promoter
+6406	6541	rep_origin
+			label	SV40 ori
+			note	SV40 origin of replication
+6622	7416	CDS
+			label	NeoR/KanR
+			gene	aph(3')-II (or nptII)
+			note	confers resistance to neomycin, kanamycin, and G418 (Geneticin(R))
+			codon_start	1
+			product	aminoglycoside phosphotransferase from Tn5
+7592	7713	polyA_signal
+			label	SV40 poly(A) signal
+			note	SV40 polyadenylation signal
+7778	7762	primer_bind
+			label	M13 rev
+			note	common sequencing primer, one of multiple similar variants
+7840	7810	promoter
+			label	lac promoter
+			note	promoter for the E. coli lac operon
+8752	8164	rep_origin
+			label	ori
+			note	high-copy-number ColE1/pMB1/pBR322/pUC origin of replication
+9783	8923	CDS
+			label	AmpR
+			gene	bla
+			note	confers resistance to ampicillin, carbenicillin, and related antibiotics
+			codon_start	1
+			product	beta-lactamase
+9888	9784	promoter
+			label	AmpR promoter
+			gene	bla
+>Feature Construct_4502
+50	429	enhancer
+			label	CMV enhancer
+			note	human cytomegalovirus immediate early enhancer
+430	633	promoter
+			label	CMV promoter
+			note	human cytomegalovirus (CMV) immediate early promoter
+741	4835	CDS
+			product	WuhanS1_Khosta2RBD_RSCH014RBD_URBANIRBD
+2787	2804	misc_feature
+			note	Linker
+3465	3482	misc_feature
+			note	Linker
+4149	4166	misc_feature
+			note	linker
+4880	5468	misc_feature
+			label	WPRE
+			note	woodchuck hepatitis virus posttranscriptional regulatory element
+5534	5582	polyA_signal
+			label	HSV TK poly(A) signal
+			note	herpes simplex virus thymidine kinase polyadenylation signal (Cole and Stacy, 1985)
+5784	6212	rep_origin
+			label	f1 ori
+			note	f1 bacteriophage origin of replication; arrow indicates direction of (+) strand synthesis
+6226	6555	promoter
+			label	SV40 promoter
+			note	SV40 enhancer and early promoter
+6406	6541	rep_origin
+			label	SV40 ori
+			note	SV40 origin of replication
+6622	7416	CDS
+			label	NeoR/KanR
+			gene	aph(3')-II (or nptII)
+			note	confers resistance to neomycin, kanamycin, and G418 (Geneticin(R))
+			codon_start	1
+			product	aminoglycoside phosphotransferase from Tn5
+7592	7713	polyA_signal
+			label	SV40 poly(A) signal
+			note	SV40 polyadenylation signal
+7778	7762	primer_bind
+			label	M13 rev
+			note	common sequencing primer, one of multiple similar variants
+7840	7810	promoter
+			label	lac promoter
+			note	promoter for the E. coli lac operon
+8752	8164	rep_origin
+			label	ori
+			note	high-copy-number ColE1/pMB1/pBR322/pUC origin of replication
+9783	8923	CDS
+			label	AmpR
+			gene	bla
+			note	confers resistance to ampicillin, carbenicillin, and related antibiotics
+			codon_start	1
+			product	beta-lactamase
+9888	9784	promoter
+			label	AmpR promoter
+			gene	bla
+>Feature Construct_4503
+50	429	enhancer
+			label	CMV enhancer
+			note	human cytomegalovirus immediate early enhancer
+430	633	promoter
+			label	CMV promoter
+			note	human cytomegalovirus (CMV) immediate early promoter
+741	4844	CDS
+			product	WuhanS1_RATG13RBD_BTKY72RBD_WIV1RBD
+2787	2804	misc_feature
+			note	Linker
+3474	3491	misc_feature
+			note	Linker
+4158	4175	misc_feature
+			note	linker
+4889	5477	misc_feature
+			label	WPRE
+			note	woodchuck hepatitis virus posttranscriptional regulatory element
+5543	5591	polyA_signal
+			label	HSV TK poly(A) signal
+			note	herpes simplex virus thymidine kinase polyadenylation signal (Cole and Stacy, 1985)
+5793	6221	rep_origin
+			label	f1 ori
+			note	f1 bacteriophage origin of replication; arrow indicates direction of (+) strand synthesis
+6235	6564	promoter
+			label	SV40 promoter
+			note	SV40 enhancer and early promoter
+6415	6550	rep_origin
+			label	SV40 ori
+			note	SV40 origin of replication
+6631	7425	CDS
+			label	NeoR/KanR
+			gene	aph(3')-II (or nptII)
+			note	confers resistance to neomycin, kanamycin, and G418 (Geneticin(R))
+			codon_start	1
+			product	aminoglycoside phosphotransferase from Tn5
+7601	7722	polyA_signal
+			label	SV40 poly(A) signal
+			note	SV40 polyadenylation signal
+7787	7771	primer_bind
+			label	M13 rev
+			note	common sequencing primer, one of multiple similar variants
+7849	7819	promoter
+			label	lac promoter
+			note	promoter for the E. coli lac operon
+8761	8173	rep_origin
+			label	ori
+			note	high-copy-number ColE1/pMB1/pBR322/pUC origin of replication
+9792	8932	CDS
+			label	AmpR
+			gene	bla
+			note	confers resistance to ampicillin, carbenicillin, and related antibiotics
+			codon_start	1
+			product	beta-lactamase
+9897	9793	promoter
+			label	AmpR promoter
+			gene	bla
